@@ -104,7 +104,7 @@ Dies ist ein Skript, das auf der Cloudflare Worker-Plattform basiert. Basierend 
     -   Zum Beispiel`https://trauma.pages.dev/auto`Dies ist Ihre universelle adaptive Abonnementadresse.
     -   Zum Beispiel`https://trauma.pages.dev/auto?sub`Base64-Abonnementformat, geeignet für PassWall, SSR+ usw.
     -   Zum Beispiel`https://trauma.pages.dev/auto?clash`Clash-Abonnementformat, geeignet für OpenClash usw.
-    -   Zum Beispiel`https://trauma.pages.dev/auto?sb`Singbox-Abonnementformat, geeignet für Singbox usw.
+    -   Zum Beispiel`https://trauma.pages.dev/auto?sb` singbox subscription format, suitable for singbox, etc.
 
 4.  Benutzerdefinierte CNAME-Domäne an Seiten binden:
     -   In der Pages-Konsole`Custom domains`Klicken Sie auf die Registerkarte unten`Set up a custom domain`.
@@ -126,7 +126,7 @@ Dies ist ein Skript, das auf der Cloudflare Worker-Plattform basiert. Basierend 
 
 ## Beschreibung der Umgebungsvariablen
 
-> [!NOTIZ]Es reicht aus, nur zwei davon festzulegen, die erste Variable`PASSWORD`und der zweite`PROXYIP`Die in der folgenden Tabelle aufgeführten Variablen dienen nur zu Bildungszwecken und zusätzlichen Erläuterungen.![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256)
+> [!NOTIZ]Es genügt, zwei davon festzulegen, die erste Variable`PASSWORD`und der zweite`PROXYIP`Die in der folgenden Tabelle aufgeführten Variablen dienen nur zu Bildungszwecken und zusätzlichen Erläuterungen.![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256)
 
 | Variablenname                                                                                      | Beispiel                                                                                                                 | Bemerkung                                                                                                                                |
 | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
